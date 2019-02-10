@@ -13,4 +13,5 @@ Requirement
 The game scene is as following.
 ![image]( https://github.com/FlashZoom/Gomuku-AI/blob/master/picture/001.png)
 ![image](https://github.com/FlashZoom/Gomuku-AI/blob/master/picture/002.png)
+<img src="https://github.com/FlashZoom/Gomuku-AI/blob/master/picture/002.png" width = "100" height = "100" div align=right />
 
