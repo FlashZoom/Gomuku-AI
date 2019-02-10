@@ -9,3 +9,8 @@ Requirement
 1. Python == 3.6
 2. TensorFlow >= 1.10
 3. Pygame >= 1.9.4
+
+The game scene is as following.
+![image]( https://github.com/FlashZoom/Gomuku-AI/blob/master/picture/001.png)
+
+![image](https://github.com/FlashZoom/Gomuku-AI/blob/master/picture/002.png)
